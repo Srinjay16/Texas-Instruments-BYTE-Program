@@ -1,12 +1,12 @@
 #Texas-Instruments-BYTE-Program
 
-This repository contains all documents and materials related to the BYTE Program organized by Texas Instruments.
+This repository contains all documents and materials related to the BYTE Program organized by Texas Instruments. I’m proud to share that I successfully completed the program and received the official BYTE certification.
 
 📁 Contents:
 
 The initial folders contain solutions to the weekly simulation assignments given during the program. All simulations were performed using the open-source QUCS (Quite Universal Circuit Simulator) software.
 
-The final file contains our team's complete solution to the final project, based on a problem statement assigned by Texas Instruments.
+The first pdf file contains our team's complete solution to the final project, based on a problem statement assigned by Texas Instruments.
 
 
 🧠 Problem Statement:
