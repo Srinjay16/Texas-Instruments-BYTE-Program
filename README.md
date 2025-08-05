@@ -26,6 +26,7 @@ Think of what physiological parameters to monitor and how to process real-time d
 4) Aditya Bhattacharya
 5) Srinjay Paul (me)
 
+All team members are pursuing B.Tech in Electronics and Telecommunication Engineering (ETCE), Class of 2027, Jadavpur University.
 
 📄 Solution:
 
