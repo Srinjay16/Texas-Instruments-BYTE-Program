@@ -5,8 +5,8 @@ This repository contains all documents and materials related to the BYTE Program
 📁 Contents:
 
 The initial folders contain solutions to the weekly simulation assignments given during the program. All simulations were performed using the open-source QUCS (Quite Universal Circuit Simulator) software.
-
-The first pdf file contains our team's complete solution to the final project, based on a problem statement assigned by Texas Instruments.
+The attached PDF contains the certificate of completion awarded to me upon successfully finishing the course.
+The second pdf file contains our team's complete solution to the final project, based on a problem statement assigned by Texas Instruments.
 
 
 🧠 Problem Statement:
